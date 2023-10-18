@@ -27,7 +27,7 @@
       <td><a href='https://github.com/theCapnCoder/energy-rent'>Energy rent</a></td>
       <td><a href='https://thecapncoder.github.io/energy-rent/'>Link</a></td>
       <td>TS MaterialUI Recharts Formik React SCSS HTML</td>
-      <td>Get Books, Book, Chapters, Movies, Pagination</td>
+      <td>Used Recharts for charts, implemented routing, displayed user-specific tables with Data Grid, and enabled full user profile access.</td>
       <td><img src="img/EnergyRent.jpg" alt="picture"></td>
     </tr>
   </tbody>
