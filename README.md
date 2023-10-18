@@ -17,6 +17,13 @@
       <td><img src="img/Mitla.jpg" alt="picture"></td>
     </tr>
     <tr>
+      <td><a href='https://github.com/theCapnCoder/Promo'>Promo</a></td>
+      <td><a href='https://thecapncoder.github.io/Promo/'>Link</a></td>
+      <td>TS React SCSS HTML</td>
+      <td>PixelPerfect (Adaptive Layout: 320px, 480px, 768px, 1920px)</td>
+      <td><img src="img/Promo.jpg" alt="picture"></td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/theCapnCoder/energy-rent'>Energy rent</a></td>
       <td><a href='https://thecapncoder.github.io/energy-rent/'>Link</a></td>
       <td>TS MaterialUI Recharts Formik React SCSS HTML</td>
@@ -44,13 +51,6 @@
       <td>TS MaterialUI Router Axios React SCSS HTML</td>
       <td>Get Books, Book, Chapters, Movies, Pagination</td>
       <td><img src="img/JsonPlaceholder.jpg" alt="picture"></td>
-    </tr>
-    <tr>
-      <td><a href='https://github.com/theCapnCoder/Promo'>Promo</a></td>
-      <td><a href='https://thecapncoder.github.io/Promo/'>Link</a></td>
-      <td>TS React SCSS HTML</td>
-      <td>PixelPerfect (Adaptive Layout: 320px, 480px, 768px, 1920px)</td>
-      <td><img src="img/Promo.jpg" alt="picture"></td>
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/API--The-lord-of-the-rings'>The lord of the rings</a></td>
