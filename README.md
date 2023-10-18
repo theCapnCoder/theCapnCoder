@@ -51,7 +51,6 @@ block
 </table>
 </details>
 
-
 <details>
 <summary><b>Old Projects HTML, CSS</b></summary>
 <table>
@@ -69,7 +68,6 @@ block
       <td><a href='https://thecapncoder.github.io/Decenter-Ads/'>Link</a></td>
       <td>TS Formik Yup React SCSS HTML</td>
       <td>PixelPerfect (Adaptive Layout: 1366px, 390px)</td>
-      <td>![pic](img/N-pay.jpg)
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/Video-Line'>Video Line</a></td>
@@ -106,6 +104,7 @@ block
       <td><a href='https://thecapncoder.github.io/N-pay/'>Link</a></td>
       <td>Tailwind CSS HTML</td>
       <td>PixelPerfect</td>
+      <td><img src="img/N-pay.jpg" alt="N-pay"></td>
     </tr>
   </tbody>
   <thead>
