@@ -30,7 +30,7 @@ block
 </br>
 
 <details>
-<summary><b>Fezee Project API</b></summary>
+<summary><b>Frozen projects API</b></summary>
 <table>
   <thead>
     <tr>
@@ -53,7 +53,7 @@ block
 
 
 <details>
-<summary><b>Old Project HTML, CSS</b></summary>
+<summary><b>Old Projects HTML, CSS</b></summary>
 <table>
   <thead>
     <tr>
@@ -61,6 +61,7 @@ block
       <th>Site</th>
       <th>Technologies used</th>
       <th>Description</th>
+      <th>Prewiev</th>
     </tr>
   <tbody>
     <tr>
@@ -68,6 +69,7 @@ block
       <td><a href='https://thecapncoder.github.io/Decenter-Ads/'>Link</a></td>
       <td>TS Formik Yup React SCSS HTML</td>
       <td>PixelPerfect (Adaptive Layout: 1366px, 390px)</td>
+      <td>![pic](img/N-pay.jpg)
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/Video-Line'>Video Line</a></td>
