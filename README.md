@@ -1,5 +1,7 @@
 <div align='center'><h1>theCapnCoder</h1></div>
 
+### CodeWars: https://www.codewars.com/users/myagkiypavel
+
 <table>
   <thead>
     <tr>
