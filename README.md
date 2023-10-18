@@ -39,14 +39,14 @@
   <tbody>
     <tr>
       <td><a href='https://github.com/theCapnCoder/json-placeholder'>Json placeholder</a></td>
-      <td><a href='https://thecapncoder.github.io/json-placeholder/counter'>Link</a></td>
+      <td><a href='https://thecapncoder.github.io/json-placeholder'>Link</a></td>
       <td>TS MaterialUI Router Axios React SCSS HTML</td>
       <td>Get Books, Book, Chapters, Movies, Pagination</td>
       <td><img src="img/JsonPlaceholder.jpg" alt="picture"></td>
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/API--The-lord-of-the-rings'>The lord of the rings</a></td>
-      <td><a href='https://thecapncoder.github.io/API--The-lord-of-the-rings/quotes'>Link</a></td>
+      <td><a href='https://thecapncoder.github.io/API--The-lord-of-the-rings/'>Link</a></td>
       <td>TS MaterialUI Router Axios React SCSS HTML</td>
       <td>Get Books, Book, Chapters, Movies, Pagination</td>
       <td><img src="img/Ring.jpg" alt="picture"></td>
