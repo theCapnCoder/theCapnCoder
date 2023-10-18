@@ -74,37 +74,42 @@ block
       <td><a href='https://thecapncoder.github.io/Video-Line/'>Link</a></td>
       <td>TS Redux React SCSS HTML</td>
       <td>PixelPerfect (Adaptive Layout: 1440px)</td>
+      <td><img src="img/VideoLine.jpg" alt="picture"></td>
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/Promo'>Promo</a></td>
       <td><a href='https://thecapncoder.github.io/Promo/'>Link</a></td>
       <td>TS React SCSS HTML</td>
       <td>PixelPerfect (Adaptive Layout: 320px, 480px, 768px, 1920px)</td>
+      <td><img src="img/Promo.jpg" alt="picture"></td>
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/gravity'>Gravity</a></td>
       <td><a href='https://thecapncoder.github.io/gravity/'>Link</a></td>
       <td>TS React Tailwind CSS HTML</td>
       <td>PixelPerfect (Adaptive Layout: 1440px, 375px)</td>
+      <td><img src="img/Gravity.jpg" alt="picture"></td>
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/GK_Melody'>GK Melody</a></td>
       <td><a href='https://thecapncoder.github.io/GK_Melody/'>Link</a></td>
       <td>Tailwind CSS HTML</td>
       <td>PixelPerfect</td>
+      <td><img src="img/GK_Melody.jpg" alt="picture"></td>
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/Amazing_mountain'>Amazing mountain</a></td>
       <td><a href='https://thecapncoder.github.io/Amazing_mountain/'>Link</a></td>
       <td>Tailwind CSS HTML</td>
       <td>PixelPerfect</td>
+      <td><img src="img/amazing_mountain.jpg" alt="picture"></td>
     </tr>
     <tr>
       <td><a href='https://github.com/theCapnCoder/N-pay'>N-pay</a></td>
       <td><a href='https://thecapncoder.github.io/N-pay/'>Link</a></td>
       <td>Tailwind CSS HTML</td>
       <td>PixelPerfect</td>
-      <td><img src="img/N-pay.jpg" alt="N-pay"></td>
+      <td><img src="img/N-pay.jpg" alt="picture"></td>
     </tr>
   </tbody>
   <thead>
