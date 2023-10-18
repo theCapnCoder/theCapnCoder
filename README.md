@@ -1,6 +1,6 @@
 <div align='center'><h1>theCapnCoder</h1></div>
 
-### CodeWars: <a href='https://github.com/theCapnCoder/Mitla'>link</a>
+### CodeWars: <a href='https://www.codewars.com/users/myagkiypavel'>link</a>
 
 <table>
   <thead>
